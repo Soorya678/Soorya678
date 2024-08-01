@@ -1,7 +1,7 @@
 - 👋 Hi, 
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...BCA
-- i am new to githum so its 1st code
+- i am new to github so its my 1st code
   
 <!---
 Soorya678/Soorya678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
